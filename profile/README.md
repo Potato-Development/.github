@@ -1,8 +1,5 @@
 ## We are Potato Development! 🥔
 
-![タイトルなし](https://github.com/Potato-Development/.github/assets/119129834/f314668c-b87d-461d-9b08-fb49ebe9f965)
-
-
 
 Some of us do stuff 📢
 
