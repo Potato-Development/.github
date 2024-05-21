@@ -1,5 +1,7 @@
 ## We are Potato Development! 🥔
 
+![GitHub Org's stars](https://img.shields.io/github/stars/Potato-Development)
+
 
 Some of us do stuff 📢
 
