@@ -15,12 +15,16 @@ Some of us do stuff 📢
 
 ### MysteryFlask
 
-> the best gang fr
+> The best gang fr
 
 ### Spaciv  
 
-> spaaaaaaaaaaaaace
+> Spaaaaaaaaaaaaace
 
 ### IM-BOJO  
 
 > Spooooooon
+
+### i2047
+
+> There's no place like 127.0.0.1
