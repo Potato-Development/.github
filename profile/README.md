@@ -15,7 +15,7 @@ Some of us do stuff 📢
 
 ### MysteryFlask
 
-> The best gang fr
+> Gang fr
 
 ### Spaciv  
 
