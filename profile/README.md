@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, we're Potato Development 👋
 
 <!--
 
